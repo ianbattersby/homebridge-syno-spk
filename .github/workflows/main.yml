@@ -104,6 +104,9 @@ jobs:
           - SPK_PLATFORM: armada37xx
             SPK_ARCH: armada37xx
             NODE_ARCH: arm64
+          - SPK_PLATFORM: armada370
+            SPK_ARCH: armada370
+            NODE_ARCH: armv7l
           - SPK_PLATFORM: armada38x
             SPK_ARCH: armada38x
             NODE_ARCH: armv7l
